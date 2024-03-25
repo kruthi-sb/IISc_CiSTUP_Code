@@ -2,7 +2,7 @@
 Author:  Kruthi S B
 Status:  Complete
 Created:  23-03-2024
-Completed: 24-09-2024
+Completed: 24-03-2024
 Description: This script is used to calculate the probability of each alternative in a multinomial choice setting using the logistic function, given a set of parameters and independent variables.
 It also visualizes the probabilities using various plots.
 """
